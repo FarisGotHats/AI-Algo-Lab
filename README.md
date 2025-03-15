@@ -50,7 +50,7 @@ Explore **Large Language Models** (LLMs) and NLP tasks such as text generation, 
 ---
 
 ## 🛠️ Tools
-The following tools were used to complete this certification: 
+The following Python libraries is used throughout this repository
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -59,7 +59,7 @@ The following tools were used to complete this certification:
 ---
 
 ## 📖 Libraries
-The following Python libraries were used throughout the certification:
+The following Python libraries is used throughout this repository
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
