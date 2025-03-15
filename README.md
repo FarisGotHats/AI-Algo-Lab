@@ -11,6 +11,8 @@ Welcome to the **AI Algo-Lab**! This repository contains a collection of AI proj
 - [Neural Networks (NN) 🌐](#neural-networks-nn)
 - [Computer Vision 👁️](#computer-vision)
 - [Large Language Models (LLM) 📝](#large-language-models-llm)
+- [🛠️ Tools](#tools)
+- [📖 Libraries](#libraries)
 - [Getting Started 🚀](#getting-started)
 - [Contributing 🤝](#contributing)
 - [License 📜](#license)
@@ -19,61 +21,97 @@ Welcome to the **AI Algo-Lab**! This repository contains a collection of AI proj
 
 ## Machine Learning (ML) 🧠
 
-This section covers various **Machine Learning** algorithms and projects. Whether you're looking to implement basic classifiers, regression models, or more advanced techniques, you'll find code and explanations here.
-
-### Projects:
-- **Random Forest Classifier**
-- **K-means Clustering**
-- **Decision Trees**
-- **Support Vector Machines (SVM)**
+This section covers various **Machine Learning** algorithms and techniques, such as classification, regression, and clustering.
 
 ---
 
 ## Deep Learning (DeepL) 🔥
 
-Deep Learning takes a step further, diving into neural networks with multiple layers. In this section, you'll explore architectures like CNNs, RNNs, and more!
-
-### Projects:
-- **Fully Connected Networks (FNN)**
-- **Convolutional Neural Networks (CNN)**
-- **Recurrent Neural Networks (RNN)**
-- **Autoencoders**
+Explore **Deep Learning** techniques such as convolutional neural networks (CNN), recurrent neural networks (RNN), and autoencoders.
 
 ---
 
 ## Neural Networks (NN) 🌐
 
-This section focuses on different types of **Neural Networks** and their applications. Learn how to build and train models for tasks such as classification, regression, and generation.
-
-### Projects:
-- **Multilayer Perceptrons (MLP)**
-- **GANs (Generative Adversarial Networks)**
-- **Long Short-Term Memory (LSTM)**
-- **Transformers**
+Dive into various **Neural Network** architectures and applications for tasks such as classification, generation, and prediction.
 
 ---
 
 ## Computer Vision 👁️
 
-Explore the exciting field of **Computer Vision**! This section contains algorithms and projects related to image processing, object detection, segmentation, and more.
-
-### Projects:
-- **Image Classification with CNNs**
-- **Object Detection (YOLO, Faster R-CNN)**
-- **Image Segmentation (U-Net)**
-- **Style Transfer**
+Learn about **Computer Vision** algorithms used for image processing, object detection, segmentation, and more.
 
 ---
 
 ## Large Language Models (LLM) 📝
 
-Dive into **Large Language Models** and natural language processing (NLP). This section includes code for language models, text generation, and other NLP tasks.
+Explore **Large Language Models** (LLMs) and NLP tasks such as text generation, sentiment analysis, and named entity recognition.
 
-### Projects:
-- **Text Generation (GPT-2)**
-- **Named Entity Recognition (NER)**
-- **Sentiment Analysis**
-- **Text Summarization**
+---
+
+## 🛠️ Tools
+
+The following tools were used to complete the AI projects:
+
+- **Python**  
+  ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
+- **Jupyter Notebook**  
+  ![Jupyter Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png)
+
+- **GitHub**  
+  ![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+
+---
+
+## 📖 Libraries
+
+The following Python libraries were used throughout the certification:
+
+- **Pandas**  
+  ![Pandas Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pandas_logo.svg/1200px-Pandas_logo.svg.png)
+
+- **NumPy**  
+  ![NumPy Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/NumPy_logo_2020.svg)
+
+- **SciPy**  
+  ![SciPy Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/SciPy_Logo.svg)
+
+- **Matplotlib**  
+  ![Matplotlib Logo](https://upload.wikimedia.org/wikipedia/commons/0/01/Matplotlib_logo.svg)
+
+- **Plotly**  
+  ![Plotly Logo](https://upload.wikimedia.org/wikipedia/commons/3/3c/Plotly_logo.svg)
+
+- **scikit-learn**  
+  ![scikit-learn Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+
+- **Keras**  
+  ![Keras Logo](https://upload.wikimedia.org/wikipedia/commons/7/73/Keras_logo.svg)
+
+- **PyTorch**  
+  ![PyTorch Logo](https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo.png)
+
+- **TensorFlow**  
+  ![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/TensorFlow_logo.svg)
+
+- **OpenCV**  
+  ![OpenCV Logo](https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo.svg)
+
+- **NLTK**  
+  ![NLTK Logo](https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_NLTK.svg)
+
+- **Transformers**  
+  ![Transformers Logo](https://upload.wikimedia.org/wikipedia/commons/1/1f/Hugging_Face_logo.png)
+
+- **XGBoost**  
+  ![XGBoost Logo](https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png)
+
+- **LightGBM**  
+  ![LightGBM Logo](https://upload.wikimedia.org/wikipedia/commons/6/63/LightGBM_logo.png)
+
+- **Seaborn**  
+  ![Seaborn Logo](https://upload.wikimedia.org/wikipedia/commons/0/0d/Seaborn_logo.png)
 
 ---
 
@@ -83,7 +121,7 @@ Dive into **Large Language Models** and natural language processing (NLP). This 
 Before you begin, ensure that you have the following installed:
 
 - Python 3.x
-- IDE
+- Required libraries
 
 ### Installation:
 Clone this repository to your local machine:
